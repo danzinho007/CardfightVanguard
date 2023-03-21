@@ -1,0 +1,56 @@
+Royal Paladin
+
+0-CT-Epona = 4x
+0-CT-Flogal = 4x
+0-N-Grime = 1x 
+0-DT-Margal = 4x
+0-HT-Elaine = 4x
+
+1-Auspice Falcon = 3x
+1-Allen = 4x
+1-Runoria = 4x
+1-Wingal = 3x
+
+2-Blaster Blade = 4x
+2-Gallatin = 4x
+2-Jarron = 3x
+
+3-Alfred Early = 4x
+3-Stardrive Dragon = 4x
+
+Royal Paladin
+
+0-CT-Epona = 4x
+0-CT-Flogal = 4x
+0-N-Grime = 1x 
+Auto : Quando montado, retire uma carta . Então se o vanguarda do oponente é grau 1 ou maior , coloque um tique escudo rápido na sua mão
+0-DT-Margal = 4x
+0-HT-Elaine = 4x
+17 
+
+1-Auspice Falcon = 3x
+ACT [R] : Custo (Contra Explosão 1 & Descanse essa unid ) , e 2 de seus guardas dianteiros ganham força de +5k até o final do turno
+1-Allen = 4x
+Ef
+1-Runoria = 4x
+Ef
+1-Wingal = 3x
+Ef
+14
+
+2-Blaster Blade = 4x
+Ef
+2-Gallatin = 4x
+2-Jarron = 3x
+Ef
+11
+
+3-Alfred Early = 4x
+Ef
+3-Stardrive Dragon = 4x
+Ef
+8
+
+17 + 14 + 11 + 8
+31 + 19
+50

@@ -1,0 +1,33 @@
+Cardfight Vanguard
+
+Morikawa
+Kai Toshiki
+Miwa
+Colégio Hitsue
+Aichi Sendou
+
+-Blaster Blade
+
+Vanguard Fighter
+Loja : Card Capital
+Planeta de Vanguard : Cray
+0-Units = guerreiros vanguard
+1-Sacar 5 cartas
+2-Invocar cartas de nível 0
+
+-(0)Lizard Runner Undeux
+ 
+3-Pode colocar unit de maior nível encima da outra no seu turno
+4-Pode invocar units com classificação menor que o seu vanguard principal no seu turno , essas units são chamadas de rear-guard
+5-Quem começa não pode atacar
+6-Quando ataca , vira-se a carta
+7-O vanguard atacante recebe o poder da unit que está em rear-guard
+8-Quando ataca , você saca uma carta do topo do deck para verificar um drive tigger
+9-Se a carta ter um símbolo no canto superior dinheiro o ataque aumenta em 5000 e o dano em +1 , caso passe
+10-Se o ataque for maior , o ataque passa
+11-Quando o ataque for um sucesso ,  o oponente descarta 1 carta
+12-Depois de 6 cartas , ele perde o jogo
+13-Se o ataque das 2 criaturas serem iguais os 2 passam 
+14-A pessoa pode defender jogando 1 carta da sua mão
+15-Depois do ataque , a carta que a pessoa usou é retirada do jogo
+16-

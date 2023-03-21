@@ -1,0 +1,45 @@
+CARDFIGHT!! VANGUARD: LOCK ON VICTORY!!
+
+Grau 3
+
+Crimson 4x
+Crimson Butterfly , Brigitte 4x
+[AUTO] (VC): Quando o teste de direção desta unidade revela um << Paladino Real >> de grau 3, esta unidade recebe [Força] +5000 até o final da batalha.
+
+Solitary 2x
+Solitary Knight, Gancelot 2x
+[ACT] (VC): [Counter-Blast 2] Se você tiver uma carta chamada "Blaster Blade" em sua alma, esta unidade recebe [Power] + 5000 / [Critical] +1 até o final do turno.
+[ACT] (Mão): [Revele esta carta ao seu oponente e coloque-a no topo do seu deck] Procure em seu deck por até uma carta chamada "Blaster Blade", revele-a para seu oponente, coloque-a em sua mão, e embaralhe seu baralho.
+
+Grau 2
+
+Knight 1x
+Knight of Conviction, Bors 1x
+[AUTO] (VC / RC): [Contra-explosão 1] Quando esta unidade ataca, você pode pagar o custo. Se você fizer isso, esta unidade receberá [Power] +3000 até o final da batalha.
+
+Knight 3x
+Knight of the Harp, Tristan
+[AUTO] (VC): Quando o teste de direção desta unidade revela um << Paladino Real >> de grau 3, esta unidade recebe [Força] +5000 até o final da batalha.
+
+
+Knight 4x
+Knight of Silence, Gallatin
+
+Blaster 1x
+Blaster Blade
+[AUTO]: [Counter-Blast 2] Quando esta unidade é colocada em (VC), você pode pagar o custo. Se o fizer, escolha uma das retaguardas do seu oponente e retire-a.
+[AUTO]: [Counter-Blast 2] Quando esta unidade é colocada em (RC), se você tiver umvanguarda, você pode pagar o custo. Se o fizer, escolha uma das retaguardas de grau 2 ou superior de seu oponente e retire-a.
+
+Cove 4x
+Covenant Knight, Randolf
+[AUTO] (VC / RC): Quando esta unidade ataca, se o número de cartas em sua mão for maior que o de seu oponente, esta unidade recebe [Força] +3000 até o final da batalha.
+
+Grau 1
+
+Wingal 2x
+[AUTO] (RC): Quando esta unidade aumenta uma carta chamada "Blaster Blade", a unidade aumentada recebe [Power] +4000 até o final da batalha.
+
+Starlight Unicorn 4x
+[AUTO]: Quando esta unidade é colocada em (RC), escolha outro de seu << Royal Paladin >>, e essa unidade recebe [Power] +2000 até o final do turno.
+
+Little Sage, Marron 4x
