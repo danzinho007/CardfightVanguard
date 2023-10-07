@@ -1,0 +1,220 @@
+
+Apertando START :
+
+12
+34
+56
+78
+
+1-Deck
+2-Desbloquear cartas
+3-Estatísticas
+4-Todas cartas
+5-Tutorial com 13 lições
+6-Opções do jogo : Mensagem , Som e Campo
+7-Voltar para a tela inicial
+8-Salvar
+
+1-Deck
+
+1
+23
+45
+67
+8
+
+1-Limpar o deck
+2-Editar o deck
+
+R : Altera entre o Deck Principal e o Banco
+X = 
+Y = Remove carta selecionada
+B = Volta pro Menu Anterior
+A = Adiciona carta selecionada
+
+3-Salvar
+4-Carregar
+5-Nomear
+6-Escolher o fundo
+7-Escolher o campo
+8-Salvar
+
+4 - Todas as cartas :
+
+1.329 cartas no total divididas em 95 grupos com 14 ( último tem 13 )
+ou
+Divisão em clãs :
+Amarelo :
+ロイヤルパラディン = Royal Paladin : 103 
+オラクルシンクタンク = Oracle Think Thank : 126
+シャドウパラディン = Shadow Paladin : 49
+ゴールドパラディン = Gold Paladin : 83
+エンジェルフェザー = Angel Feather  : 50
+ジェネシス = Não tem , carta de 2015 , pode ter no CFV G - Stride to Victory de 2016
+
+Verificar :
+
+Dragon Empire / Historical = Vermelho
+
+かげろう ( vermelho ) = Kagero : 91
+たちかぜ = Tachikaze : 46
+ぬばたま = Nubatama : 4
+むらくも = Murakumo : 47
+なるかみ = Narukami : 68
+
+Star Gate = Preto
+
+ノヴァグラップラー = Nova Grappler : 134
+ディメンジョンポリス = Dimension Police : 60
+エトランジェ = Etranger : 3
+リンクジョーカー = Link Joker
+เดอะแมสค์คอลเลคชัน = Mask Collection
+ユニオンヴァース = Union Verse
+แอนิเมชั่น = Animation
+
+Zoo = Verde
+
+メガコロニー = Megacolony 42
+グレートネイチャー = Great Nature : 63
+ネオネクタール = Neo Nectar : 50
+
+Magallanica = Azul
+
+グランブルー = Granblue : 51
+バミューダ△トライアングル = Bermuda Triangle : 43
+アクアフォース = Aqua Force : 56
+
+Dark Zone = Roxo
+
+ダークイレギュラーズ = Dark Irregulars : 57
+スパイクブラザーズ = Spike Brothers : 35
+ペイルムーン = Pale Moon : 68
+ギアクロニクル = Gear Chronicle
+
+Outros :
+
+バンドリ = Bang Dream
+BREAKERZ
+クレイエレメンタル = Cray Elemental
+ホロライブ = Hololive
+刀とう剣けん乱らん舞ぶ = Touken Ranbu
+立ちヴァン = TachiVan
+
+ou
+22 pacotes no total divididos em 4 grupos de 6 ( o último tem 1 )
+ou
+Favoritar Cartas
+
+Carregando jogo
+
+1- Mapa do jogo
+2-
+3-
+4- Desbloquear itens
+5- Deck
+6- Todas as cartas
+7- Editar mensagens
+8- Opções do jogo
+9- Tutorial
+10- Apagar save
+
+-Royal Paladin
+--Normal Unit - Grau 0 : 47
+--Normal Unit - Grau 1 : 206
+--Normal Unit - Grau 1 - TD : 33
+--Normal Unit - Grau 2 - TD : 34
+--Normal Unit - Grau 3 - TD : 21
+--Trigger Unit - Grau 0 : 140
+--Trigger Unit - Grau 0 - TD : 36
+
+Deck Inicial : Royal Paladin
+
+0 = 17 
+1 = 13
+2 = 13
+3 = 7
+TC / TH / TD / TS = 4 cada 
+
+0-Stardust Trumpreter = 1
+
+1-TC-Bringer of Good Luck, Epona = 4
+1-TH-Yggdrasil Maiden, Elaine = 4
+1-TD-Weapons Dealer, Govannon = 4
+1-TS-Flogal = 4
+
+1-Little Sage, Marron = 4
+1-Wingal = 1
+[AUTO] (RC): Quando esta unidade aumenta uma carta chamada "Blaster Blade", a unidade aumentada recebe [Power] +4000 até o final da batalha.
+
+1-Starlight Unicorn 6.000  = 4
+[AUTO]: Quando esta unidade é colocada em (RC), escolha outro de seu << Royal Paladin >>, e essa unidade recebe [Power] +2000 até o final do turno.
+
+1-Knight of Rose, Morgana = 4
+[AUTO] (VC / RC): [Escolha uma carta de sua mão e descarte-a] Quando esta unidade atacar, você pode pagar o custo. Se você fizer isso, esta unidade receberá [Power] +4000 até o final do turno.
+
+2-Knight of Silence, Gallatin = 4
+
+2-Blaster Blade 9.000 = 1
+[AUTO]: [Counter-Blast 2] Quando esta unidade é colocada em (VC), você pode pagar o custo. Se o fizer, escolha a retaguarda de um adversário e retire-a.
+[AUTO]: [Counter-Blast 2] Quando esta unidade é colocada em (RC), se você tiver uma vanguarda << Royal Paladin >>, você pode pagar o custo. Se o fizer, escolha a retaguarda de grau 2 ou superior de um oponente e retire-a.
+
+2-Knight of the Harp, Tristan 8.000 = 4
+[AUTO] (VC): Quando o teste de direção desta unidade revela um << Paladino Real >> de grau 3, esta unidade recebe [Força] +5000 até o final da batalha.
+
+2-Covenant Knight, Randolf 8.000 = 4
+[AUTO] (VC / RC): Quando esta unidade ataca, se o número de cartas em sua mão for maior que o de seu oponente, esta unidade recebe [Força] +3000 até o final da batalha.
+
+3-Crimson Butterfly, Brigitte 10.000 = 4
+[AUTO] (VC): Quando o teste de direção desta unidade revela um << Paladino Real >> de grau 3, esta unidade recebe [Força] +5000 até o final da batalha.
+
+3-Knight of Conviction, Bors 10.000 = 1 
+[AUTO] (VC / RC): [Contra-explosão 1] Quando esta unidade ataca, você pode pagar o custo. Se você fizer isso, esta unidade receberá [Power] +3000 até o final da batalha.
+
+3-Solitary Knight, Gancelot 9.000 = 2
+[ACT] (VC): [Counter-Blast 2] Se você tiver uma carta chamada "Blaster Blade" em sua alma, esta unidade recebe [Power] + 5000 / [Critical] +1 até o final do turno.
+[ACT] (Mão): [Revele esta carta ao seu oponente e coloque-a no topo do seu deck] Procure em seu deck por até uma carta chamada "Blaster Blade", revele-a para seu oponente, coloque-a em sua mão, e embaralhe seu baralho.
+
+Morikawa usa Deck Kagero
+
+1-Iron Tail Dragon 7.000
+[ACT] (VC) / (RC): [Counter-Blast 1] Esta unidade obtém [Power] +1000 até o final do turno.
+
+3-Dual Axe Archdragon 10.000
+[AUTO] (VC / RC): Quando esta unidade ataca, se o número de retaguardas que seu oponente possui é dois ou menos, esta unidade recebe [Força] +3000 até o final da batalha.
+
+3-Seal Dragon, Blockade 10.000
+[CONT] (VC): Durante o seu turno, as unidades do seu oponente não podem interceptar ([Interceptar]).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+Cardfight!! Vanguard: Ride to Victory!!
+
+11 de Abril de 2013
+
+https://cardfight.fandom.com/wiki/Cardfight!!_Vanguard:_Ride_to_Victory!!
+
+Cardfight!! Vanguard: Lock on Victory!!
+
+6 de Junho de 2014
+
+https://cardfight.fandom.com/wiki/Cardfight!!_Vanguard:_Lock_on_Victory!!
+
+Cardfight!! Vanguard G: Stride to Victory!!
+
+14 de Janeiro de 2016
+
+https://cardfight.fandom.com/wiki/Cardfight!!_Vanguard_G:_Stride_to_Victory!!
