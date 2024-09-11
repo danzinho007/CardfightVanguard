@@ -1,4 +1,50 @@
 
+0
+0-Abyss Healer
+0-B
+0-C
+0-D
+0-E
+0-Flogal
+0-Machining Worker Ant
+0-Madame Mirage
+0-Megacolony Battler A
+0-Megacolony Battler C
+0-Raider Mantis
+0-
+
+1-Battle Sister Cocoa
+1-Black Sage Charon
+1-Blaster Dark
+1-Blaster Javelin
+1-Dark Shield Mac Lir
+1-Darkside Pegasus
+1-Doranbau
+1-Gururubau
+1-Karma Queen
+1-L
+1-Megacolony Battler B
+1-Nightmare Painter
+1-O
+1-P
+1-Toxic 
+1-Witch of Nostrum
+
+2-
+2-Darkness Maiden Macha
+2-Demon World Castle Donner
+2-Knight of Fighting Spirit
+2-
+
+3-
+3-Dark Mage Badhabah
+3-Dark Metal Dragon
+3-Origin Mage Ildona
+3-Phantom Blaster Dragon
+3-Phantom Blaster Overlord
+3-Silver Spear Demon Gusion
+3-The Dark Dictator
+
 ---Letra A---
 -Abyss
 -Abyss Healer = 39
@@ -22,16 +68,17 @@ Cardinal
 Cardinal Dragon 
 Chakra
 Changing Magic = 86
--Combine Rusher = 
--Cursed Lancer = 21
+Combine Rusher = 
+Cursed Lancer = 21
 
 ---Letra D---
 -Dark Metal Dragon
 -Dark Shield
--Darkness 
+-Darkness Maiden Macha
 -Darkside Pegasus = 14
 -Darkside Trumpeter = 49
 -Death Feather
+-Demon World Castle
 -Demon World Castle Fatalita = 25
 -Demonic
 -Desire Devil
@@ -39,6 +86,7 @@ Changing Magic = 86
 -Doranbaus = 16
 
 ---Letra E---
+Elephant
 Enucleate 
 
 ---Letra F---
@@ -61,8 +109,8 @@ Holy Flames
 
 ---Letra K---
 -Karma Queen = 51
--Knight
--Knight of Nullity
+-Knight of Fightning
+-Knight of Nullity Masquerade
 -Knight of Partings = 68
 -Knight of Pure
 -Knight of Purgatory
@@ -82,7 +130,7 @@ Holy Flames
 -Megacolony Battler C = 45
 -Menacing Tiger
 -Meteokaiser 
--Moonlight Witch Vaha = 28
+-(2)Moonlight Witch Vaha = 28
 
 ---Letra N---
 -Nightmare
@@ -112,7 +160,7 @@ Quadra
 -Sharp Nail
 -Shelter Beetle = 48
 -Silver Spear
--Skull Witch
+-(2)Skull Witch
 -Sonic Sicada = 49
 -Spirits 
 -Stealth Millipede = 59
