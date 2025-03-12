@@ -1,0 +1,27 @@
+Regras Cardfight Vanguard :
+
+Starter Guide
+https://en.cf-vanguard.com/howto/pdf/Starters_Guide.pdf
+v4.26
+https://en.cf-vanguard.com/wordpress/wp-content/uploads/Cardfight-Vanguard-Comprehensive-Rules-4.26.pdf
+v6.5
+https://en.cf-vanguard.com/howto/pdf/VG_playbook_6_5.pdf
+G 
+https://en.cf-vanguard.com/howto/pdf/vg_playbook_web.pdf
+Oficiais :
+https://en.cf-vanguard.com/howto/
+
+3-Pode colocar unit de maior n�vel encima da outra no seu turno
+4-Pode invocar units com classifica��o menor que o seu vanguard principal no seu turno , essas units s�o chamadas de rear-guard
+5-Quem come�a n�o pode atacar
+6-Quando ataca , vira-se a carta
+7-O vanguard atacante recebe o poder da unit que est� em rear-guard
+8-Quando ataca , voc� saca uma carta do topo do deck para verificar um drive tigger
+9-Se a carta ter um s�mbolo no canto superior dinheiro o ataque aumenta em 5000 e o dano em +1 , caso passe
+10-Se o ataque for maior , o ataque passa
+11-Quando o ataque for um sucesso ,  o oponente descarta 1 carta
+12-Depois de 6 cartas , ele perde o jogo
+13-Se o ataque das 2 criaturas serem iguais os 2 passam 
+14-A pessoa pode defender jogando 1 carta da sua m�o
+15-Depois do ataque , a carta que a pessoa usou � retirada do jogo
+16-
