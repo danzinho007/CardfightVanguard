@@ -33,6 +33,19 @@ Eventos
 https://en.cf-vanguard.com/event/
 Produtos 
 https://en.cf-vanguard.com/products/
+Manga 
+https://en.cf-vanguard.com/manga/skyride-01-chapter-1/
+Regras 4.22
+https://en.cf-vanguard.com/information/rules-update-082023/
+Regras 4.27a
+https://en.cf-vanguard.com/information/rules-update-011924/
+Regras 4.39
+https://en.cf-vanguard.com/howto/https://github.com/Secuter/SecuterYGOCustomCards?tab=readme-ov-file#Decks--replays-showing-some-combos
+Regras 2023
+https://cf-vanguard.com/wordpress/wp-content/uploads/vgd_rule_20240808.pdf
+Regras 2024
+https://en.cf-vanguard.com/howto/fighters_rules/
+https://www.bcwsupplies.com/blog/2023/12/27/overview-of-the-cardfight-vanguard-rules-changes/
 
 Wiki 
 https://en.wikipedia.org/wiki/Cardfight!!_Vanguard
@@ -60,6 +73,9 @@ https://www.nintendo.com/pt-br/store/products/cardfight-vanguard-dear-days-2-swi
 Wiki em PT-BR
 https://pt.qaz.wiki/wiki/Cardfight!!_Vanguard
 
+Explicando o jogo:
+https://raiburari.blogspot.com/2013/08/cardfight-vanguard-card-game-1-basic.html
+
 História do Competitivo:
 https://www.reddit.com/r/cardfightvanguard/comments/bj01fg/the_history_of_competitive_vanguard/
 
@@ -71,6 +87,9 @@ https://store.steampowered.com/agecheck/app/1881420/
 
 Steam DLC : Jogo Cardfight_Vanguard_Dear_Days_2
 https://store.steampowered.com/dlc/2457540/__2/
+
+História / Lore das cartas:
+https://story.cf-vanguard.com/
 
 Tutoria como jogar 
 https://tcgpedia.com.br/cfv/tutorial
@@ -96,6 +115,7 @@ https://vgzero-en.bushiroad.com/
 Youtube : oficial 
 https://www.youtube.com/CARDFIGHTVanguard
 
+=============================
 Mangá inglês
 
 Capítulo 1 ao 5
